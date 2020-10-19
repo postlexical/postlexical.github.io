@@ -1,3 +1,18 @@
+/*made for dsa415*/
+#getInvolved{
+		background-color: white;
+        border: none;
+        color: #273756;
+        padding: 23px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 4px 2px;
+        cursor: pointer;
+		border-radius: 5px;
+		}
+#getInvolved:hover {background-color: #f8d9a8;}
 /* W3.CSS 4.13 June 2019 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
